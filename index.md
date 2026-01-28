@@ -1,7 +1,7 @@
 title: Home
 ---
 
-# Hello, I’m John
+Hello, I’m John
 
 This is my personal space on the internet.
 
